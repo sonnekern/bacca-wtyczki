@@ -9,12 +9,11 @@
       "nazwa": "Bacca Sonus",
       "opis": "Konfiguracja i sterowanie sprzetem gitarowym: M-Vave Pocket Amp, Chocolate Plus, looper LEKATO; tryb sceniczny z setlista SongBooka.",
       "beta": true,
-      "wersja_kontraktu": 0,
-      "lokalny_adres": "http://127.0.0.1:47823",
+      "wersja_kontraktu": 1,
       "android_pakiet": "pl.sonnekern.bacca_sonus",
-      "link_aplikacji": "bacca-sonus://",
       "pobierz": "https://github.com/sonnekern/bacca-sonus-releases/releases/latest",
-      "version_json": "https://raw.githubusercontent.com/sonnekern/bacca-sonus-releases/main/version.json"
+      "version_json": "https://raw.githubusercontent.com/sonnekern/bacca-sonus-releases/main/version.json",
+      "wtyczka": "wbudowana w Bacca SongBook (pakiet sonus), wlaczana w Secret Roomie"
     }
   ]
 }
